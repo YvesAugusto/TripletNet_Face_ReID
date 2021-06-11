@@ -1,7 +1,7 @@
 # Triplet loss based model
 
 ## Check if the anchor and positive images were took from the same person
-A model trained on a hard triplet generator, to perform person reidentification.
+A model trained on a hard triplet generator, to perform person reidentification. Checkout the Colab Notebook: https://colab.research.google.com/drive/1cfi0OKJ0gY-634jYMQOEienk5wUicJQP?usp=sharing
 ![Captura de tela de 2021-06-11 16-55-57](https://user-images.githubusercontent.com/67125269/121742287-01fb7180-cad6-11eb-80fa-357e1b4368d6.png)
 
 ### Positive case
